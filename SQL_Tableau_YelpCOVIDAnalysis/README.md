@@ -1,7 +1,6 @@
 # Data Technology: COVID-19 Impact on U.S. Fast-Food Franchises
 
-This project analyzes how the COVID-19 pandemic affected the operations of top U.S. fast-food chains using SQL and Tableau. Working with datasets from Yelp and Kaggle, we explored franchise unit changes, consumer behavior, and brand-level impact to derive actionable insights for stakeholders in the food service industry.
-
+This project analyzes how the COVID-19 pandemic affected the operations of top U.S. fast-food chains using SQL and Tableau. Working with datasets from Yelp and Kaggle, we explored franchise unit changes, consumer behavior, and brand-level impact to derive actionable insights.
 ---
 
 ## 🧠 Business Questions Addressed
@@ -15,7 +14,7 @@ This project analyzes how the COVID-19 pandemic affected the operations of top U
 
 ## 📁 Steps Followed
 
-![Steps Followed](./StepsFollowed.png)
+![Steps Followed](./SQL_Tableau_YelpCOVIDAnalysis/StepsFollowed.png)
 
 We followed a structured analytics pipeline:
 
@@ -37,7 +36,7 @@ We followed a structured analytics pipeline:
 
 ## 🧑‍💻 My Role
 
-As part of a 4-member team, I led the analysis and visualization for the following key insights (Slides 12–15):
+As part of a 4-member team, I contributed to SQL querying and led the analysis and visualization for the following key insights (Slides 12–15):
 
 - Identified franchise chains with the highest unit count pre- and post-COVID  
 - Calculated and visualized average change in franchise units  
@@ -50,20 +49,20 @@ As part of a 4-member team, I led the analysis and visualization for the followi
 
 ### 1️⃣ Dataset Overview
 
-![Dataset Overview](./DatasetOverview.png)
+![Dataset Overview](./SQL_Tableau_YelpCOVIDAnalysis/DatasetOverview.png)
 
 Primary data was sourced from Yelp Academic datasets, with secondary data from Kaggle's franchise database. The final dataset contained 1,001 observations and 14 variables.
 
 
 ### 2️⃣ Project Methodology
 
-![Steps Followed](./StepsFollowed.png)
+![Steps Followed](./SQL_Tableau_YelpCOVIDAnalysis/StepsFollowed.png)
 
 ---
 
 ### 3️⃣ Change in Units for Top 10 Fast-Food Chains
 
-![Franchise Unit Change](./FranchiseUnitChange.png)
+![Franchise Unit Change](./SQL_Tableau_YelpCOVIDAnalysis/FranchiseUnitChange.png)
 
 Subway experienced the steepest decline in units, while chains like Taco Bell and Dunkin' saw growth — indicating uneven recovery across brands.
 
@@ -78,6 +77,8 @@ Subway experienced the steepest decline in units, while chains like Taco Bell an
 | `DataTechFinal.sql` | SQL code used in MySQL Workbench |
 | `TableauViz.twbx` | Tableau packaged workbook |
 | `*.png` | Project visuals (charts, steps, data overview)
+
+📊 **Note:** [Download the Tableau dashboard `.twbx`](./CovidAnalysisSQLTableau/TableauDashboard.twbx) to explore interactively in Tableau.
 
 ---
 
