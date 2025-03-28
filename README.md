@@ -14,15 +14,9 @@ This project analyzes how the COVID-19 pandemic affected the operations of top U
 
 ## 📁 Steps Followed
 
-![Steps Followed](./SQL_Tableau_YelpCOVIDAnalysis/StepsFollowed.png)
-
 We followed a structured analytics pipeline:
 
-1. Data Collection  
-2. Data Cleaning  
-3. SQL Querying  
-4. Data Visualization  
-5. Business Analysis
+![Steps Followed](./SQL_Tableau_YelpCOVIDAnalysis/StepsFollowed.png)
 
 ---
 
@@ -78,7 +72,7 @@ Subway experienced the steepest decline in units, while chains like Taco Bell an
 | `TableauViz.twbx` | Tableau packaged workbook |
 | `*.png` | Project visuals (charts, steps, data overview)
 
-📊 **Note:** [Download the Tableau dashboard `.twbx`](./CovidAnalysisSQLTableau/TableauDashboard.twbx) to explore interactively in Tableau.
+📊 **Note:** [Download the Tableau visuals `.twbx`](./SQL_Tableau_YelpCOVIDAnalysis/TableauViz.twbx) to explore interactively in Tableau.
 
 ---
 
